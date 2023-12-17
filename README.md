@@ -2,6 +2,12 @@
 
 Authors: Luis Velazquez Sosa, Edward Garcia
 
+### Temas Incorporados
+- Manipulación de Primitivos y Compuestos
+- Jerarquías, clonaciones y prefabricados
+
+
+
 Date: 2023-08-08
 
 Personal Stories with Kirby
